@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "productmatrix",
+            "request": "launch",
+            "mainClass": "Day_five_task.productmatrix",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "sumoftwotdarray",
+            "request": "launch",
+            "mainClass": "Day_five_task.sumoftwotdarray",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "sumoftdarray",
+            "request": "launch",
+            "mainClass": "Day_five_task.sumoftdarray",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "dtarr",
+            "request": "launch",
+            "mainClass": "Day_five_task.dtarr",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "tdarray",
+            "request": "launch",
+            "mainClass": "Day_five_task.tdarray",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "minmaxusingdty",
+            "request": "launch",
+            "mainClass": "Day_four_task.minmaxusingdty",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "maxmininarray",
+            "request": "launch",
+            "mainClass": "Day_four_task.maxmininarray",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "findelmninarr",
+            "request": "launch",
+            "mainClass": "Day_four_task.findelmninarr",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "sumofnarray",
+            "request": "launch",
+            "mainClass": "sumofnarray",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "staticarray",
+            "request": "launch",
+            "mainClass": "Day_four_task.staticarray",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "arrayinloop",
+            "request": "launch",
+            "mainClass": "arrayinloop",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "greatestnumber",
+            "request": "launch",
+            "mainClass": "greatestnumber",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "grtnumusingfor",
+            "request": "launch",
+            "mainClass": "grtnumusingfor",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "hi",
+            "request": "launch",
+            "mainClass": "hi",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "leapyear",
+            "request": "launch",
+            "mainClass": "leapyear",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "leapyearinneztedif",
+            "request": "launch",
+            "mainClass": "leapyearinneztedif",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "marks",
+            "request": "launch",
+            "mainClass": "marks",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "primenumber",
+            "request": "launch",
+            "mainClass": "primenumber",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "primenumberusingtemp",
+            "request": "launch",
+            "mainClass": "primenumberusingtemp",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "renum",
+            "request": "launch",
+            "mainClass": "renum",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "reverseanumber",
+            "request": "launch",
+            "mainClass": "reverseanumber",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "sonatrnum",
+            "request": "launch",
+            "mainClass": "sonatrnum",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "sumofdigits",
+            "request": "launch",
+            "mainClass": "sumofdigits",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "sumofnaturalnumber",
+            "request": "launch",
+            "mainClass": "sumofnaturalnumber",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "triangle",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "twonum",
+            "request": "launch",
+            "mainClass": "twonum",
+            "projectName": "java_72e8cc1b"
+        }
+    ]
+}
