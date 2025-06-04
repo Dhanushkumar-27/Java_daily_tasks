@@ -7,5 +7,6 @@ public class reversenum {
         int a = n/10;
         int b = n%10;
         System.out.print((10*b)+a);
+        sc.close();
     }
 }

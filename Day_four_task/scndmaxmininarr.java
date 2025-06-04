@@ -12,7 +12,7 @@ public class scndmaxmininarr {
         for(int j = 0 ; j < e ; j++) {
             arr[j] = sc.nextInt(); 
         }
-        
+        sc.close();
 
 
     }

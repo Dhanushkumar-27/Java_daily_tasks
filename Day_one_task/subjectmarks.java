@@ -19,5 +19,6 @@ public class subjectmarks {
         System.out.println("Language:  "+e);
         System.out.println("Total:     "+(a+b+c+d+e));
         System.out.println("Avg:       "+(a+b+c+d+e)/5);
+        sc.close();
     }
 }

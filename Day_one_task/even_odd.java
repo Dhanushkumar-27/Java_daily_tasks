@@ -10,5 +10,6 @@ public class even_odd {
         }else {
             System.out.println("THE GIVEN NUMBER "+ a + " IS ODD");
         }
+        sc.close();
     }
 }

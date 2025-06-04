@@ -30,10 +30,12 @@ public class findelmninarr {
         } else {
             System.out.println("Element found in the array.");
         }
+        sc.close();
         
     }
     public static void main(String[] args) {
         elmfound();
+        
     }
 
 }

@@ -35,6 +35,7 @@ public class Simple_calculator {
              System.out.println("ENTER A VALID OPERATOR ");
 
         }
+        sc.close();
     }
     
 }

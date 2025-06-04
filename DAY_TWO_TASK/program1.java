@@ -20,5 +20,6 @@ public class program1 {
         else{
             System.out.printf("Hi %s your resgister number is %d.\n Your total average is %d and you are fail",name,reg,avg);
         }
+        sc.close();
      }
     }

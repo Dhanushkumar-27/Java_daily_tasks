@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "accesmodfiers",
+            "request": "launch",
+            "mainClass": "Day_eight_task.accesmodfiers",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "pali",
+            "request": "launch",
+            "mainClass": "Day_eight_task.pali",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "handcricket",
+            "request": "launch",
+            "mainClass": "Day_seven_task.handcricket",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "missingnoinarr",
+            "request": "launch",
+            "mainClass": "Day_seven_task.missingnoinarr",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "leaderinarray",
+            "request": "launch",
+            "mainClass": "Day_seven_task.leaderinarray",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "str",
+            "request": "launch",
+            "mainClass": "Day_seven_task.str",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "stringispalidrome",
+            "request": "launch",
+            "mainClass": "Day_six_task.stringispalidrome",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "rversestrngwithoutfunction",
+            "request": "launch",
+            "mainClass": "Day_six_task.rversestrngwithoutfunction",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "Day_six_task.string",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "ascii",
+            "request": "launch",
+            "mainClass": "Day_six_task.ascii",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "anagramornot",
+            "request": "launch",
+            "mainClass": "Day_six_task.anagramornot",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "frequenciesofelementsinarray",
+            "request": "launch",
+            "mainClass": "Day_six_task.frequenciesofelementsinarray",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "countdigit",
+            "request": "launch",
+            "mainClass": "Day_six_task.countdigit",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "swapofvariables",
+            "request": "launch",
+            "mainClass": "Day_six_task.swapofvariables",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
             "name": "productmatrix",
             "request": "launch",
             "mainClass": "Day_five_task.productmatrix",

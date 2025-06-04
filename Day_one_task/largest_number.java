@@ -21,6 +21,7 @@ public class largest_number {
             temp = c ;
         }
         System.out.println(temp + " IS  THE GREATEST NUMBER ");
+        sc.close();
 
     }
     
