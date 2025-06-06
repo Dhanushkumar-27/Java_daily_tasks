@@ -1,4 +1,4 @@
-public class twonum {
+public class twonum1 {
 
     public static void main(String[] args) {
         int a = 10, b= 20;

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hi",
+            "request": "launch",
+            "mainClass": "Day_nine_task.hi",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "st",
+            "request": "launch",
+            "mainClass": "st",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "mfc",
+            "request": "launch",
+            "mainClass": "Day_nine_task.mfc",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "numberfromcommandline",
+            "request": "launch",
+            "mainClass": "Day_nine_task.numberfromcommandline",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
             "name": "accesmodfiers",
             "request": "launch",
             "mainClass": "Day_eight_task.accesmodfiers",

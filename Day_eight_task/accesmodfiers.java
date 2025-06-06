@@ -83,9 +83,8 @@ package Day_eight_task;
 //
 
 class dk{
-    int add (){
-        int z =100;
-        return(z);
+    int add (int a, int b){
+        return a+b;
     }
 
 }
@@ -93,6 +92,6 @@ class dk{
 public class accesmodfiers {
     public static void main(String[] args) {
         dk d = new dk();
-        d.add();
+        System.out.println(d.add(1, 0));
     }
 }
