@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "samrt_home",
+            "request": "launch",
+            "mainClass": "Day_ten_task.samrt_home",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "ecomapp",
+            "request": "launch",
+            "mainClass": "Day_ten_task.ecomapp",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "abst",
+            "request": "launch",
+            "mainClass": "Day_ten_task.abst",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "hi",
+            "request": "launch",
+            "mainClass": "Day_ten_task.hi",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
             "name": "hi",
             "request": "launch",
             "mainClass": "Day_nine_task.hi",
